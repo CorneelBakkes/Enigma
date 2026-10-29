@@ -1,43 +1,28 @@
-OPERATIE ENIGMA — V4 / AFZONDERLIJKE PAGINA'S
-29 oktober 2026
+OPERATIE ENIGMA - Studenten
+Herziene editie, 29 oktober 2026
 
-PUBLICEREN
-Pak de ZIP uit en upload de inhoud naar je GitHub Pages-publicatiemap.
-index.html staat direct in die map, naast de overige HTML-bestanden,
-JavaScript, stylesheets, assets/ en print/. Geen installatie of bouwstap nodig.
-Er is niets naar GitHub gepubliceerd.
+DEZE EDITIE GEBRUIKEN
+Vervang de eerdere website en printbladen door dit complete pakket. Verhalen, bronuitleg, vragen en labels zijn op elkaar afgestemd. Meng de oude opdrachten en bronbladen niet met deze versie. De vijf sleutelkaarten voor de finale zijn ongewijzigd.
 
-PAGINA'S
-index.html — binnenkomst met de aangeleverde achtergrond
-bureau.html — keuze uit vijf dossiers
-dossier-1.html t/m dossier-5.html — één dossier per pagina
-kaart.html — echte OpenStreetMap-kaart met drie onderzoekslocaties
-tijdlijn.html — de historische tijdlijn
-finale.html — de externe Enigma en het ontcijferde bericht
-slotverklaring.html — de afsluitende verklaring na de getuigenenvelop
+Historische voorkennis is niet vereist. De opdrachten vragen wel om argumenteren, bronnen vergelijken en grenzen van bewijs benoemen.
 
-Iedere dossierpagina heeft een kruimelpad, teruglink en vorige/volgende stap.
-Op de binnenkomst en het bureau staan geen opdrachten uit andere dossiers.
-De slotpagina wordt bereikbaar na de stap bij de getuigenenvelop.
-De oorspronkelijke tekening-assets zijn niet meer onderdeel van de site.
-De aangeleverde achtergrond is ongewijzigd opgenomen als assets/achtergrond.png.
+VOORBEREIDEN
+Leg per team de vijf dossiers en de envelop GETUIGEN klaar. Gebruik het bijgewerkte boekje en de bronbladen uit de archieflade. De bronbladen bevatten Nederlandse samenvattingen bij echte bronnen, geen letterlijke vertalingen. Originele bronnen en Google Translate blijven via de website bereikbaar. Scan- en afbeeldingstekst wordt door Google Translate niet altijd vertaald.
+Laat leerlingen eerst lezen en bronnen bekijken, dan antwoorden. Vraag een detail uit de bron bij hun uitleg. Open vragen hebben geen automatische inhoudelijke beoordeling. Na een besproken dossier deelt de begeleider de passende sleutelkaart uit.
+
+FINALE
+Gebruik Mininigma op de tablet of de gekoppelde Cryptii M3 met stekkerbord. Neem alle vijf sleutelkaarten over. Controleer ringstanden en startpositie apart. Zet vóór elke nieuwe poging de machine terug op de startpositie. Open daarna GETUIGEN en maak de slotopdracht.
+De nieuwe klaar-opdracht staat apart op eigen-bericht.html en is bereikbaar bij het bureau en de finale/afronding. Daar gebruiken leerlingen een eigen startpositie en een aparte, volledig beschreven oefensleutel. Het verzendblad bewaart hun gewone en geheime tekst; de download voor de ontvanger bevat alleen het geheime bericht en de instellingen.
+
+PUBLICEREN OP GITHUB PAGES
+Pak de ZIP uit. Upload de inhoud in de hoofdmap van de eigen repository: index.html moet direct in die hoofdmap staan. Upload dus niet alleen de ZIP of een buitenste map. Neem ook .nojekyll mee. Kies bij Settings > Pages: Deploy from a branch, main, / (root), Save. GitHub toont daarna de gepubliceerde URL. Er is geen installatie of bouwstap nodig.
 
 BEWAREN
-Notities, bewijs en slotverklaring blijven in dezelfde browser bewaard.
-Download het complete dossier vanuit de archieflade om het te bewaren of in te leveren.
-De nieuwe paginastructuur gebruikt dezelfde opslagsleutel als V2 en V3.
+Notities staan lokaal in dezelfde browser op hetzelfde apparaat. Er zijn geen leerlingaccounts en geen automatische inzendingen. Download de notities of het verzendblad om werk mee te nemen.
 
-BRONNEN EN MATERIALEN
-De Nederlandse leeshulp, het origineel en Google Translate blijven beschikbaar.
-De kaart gebruikt OpenStreetMap; huidige topografie, met bronvermelding en
-correcte coördinaten voor Warschau, Parijs en Bletchley Park.
-Externe kaarten, bronreproducties en vertaalsites vragen internet.
-Elf oorspronkelijke print-PDF's zijn behouden in de archieflade.
-De Enigma blijft extern: Mininigma op tablet, Cryptii als browseralternatief.
+KAART EN AFBEELDINGEN
+De staatkundige Europakaart staat lokaal als SVG en werkt zonder kaartserver. Ondergrond uit 2008, geen weergave van de grenzen in 1940. Radosław Botev / Demis, publiek domein, via https://commons.wikimedia.org/wiki/File:Europe_blank_map.svg . Nederlandse labels en drie plaatsmarkeringen zijn toegevoegd. Gebruik de tekst bij de plaatsknoppen voor de historische uitleg; de punten zijn oriëntatiepunten, geen route van één persoon.
+De twee kamerbeelden zijn door de opdrachtgever aangeleverd en dienen als sfeerbeeld. Het oefentelegram is voor de opdracht gemaakt. De historische scheepsfoto komt uit NARA (NAID 520607) via https://www.nps.gov/places/the-battle-of-the-atlantic.htm . De brief komt van The National Archives (HW 1/155), Open Government Licence v3.0. Overige herkomst staat bij de bronnen.
 
-CONTROLE
-De vijf dossierpagina's en hun navigatie zijn in de browser doorlopen.
-De overgang finale -> getuigen -> afzonderlijke slotpagina is gecontroleerd.
-De kaart is daadwerkelijk geladen, inclusief de plaatsmarkering voor Parijs.
-Alle lokale HTML-verwijzingen bestaan; alle elf PDF's zijn ongewijzigd.
-De achtergrond komt byte-voor-byte overeen met de aangeleverde afbeelding.
+CONTROLE EN GEBRUIK
+Alle vijf dossiers zijn inhoudelijk gecontroleerd op uitleg vóór toepassing, beschikbare brongegevens, duidelijke verwijzingen en benodigde materialen. Website en printopdrachten gebruiken dezelfde vragen en Nederlandse bronuitleg. De echte pagina's zijn in de browser bekeken; de opslag en ontvangerdownload van de nieuwe klaar-opdracht zijn getest. De website is op een smal scherm gecontroleerd. Dit is geen gebruikerstest met leerlingen; bespreek tijdens de les waar leerlingen nog extra uitleg nodig hebben.

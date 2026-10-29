@@ -18,3 +18,5 @@ if(view.startsWith('dossier-')){
 if(state.decoded){$('#witness-open').hidden=false;}
 // The next step stays a normal page link, including after a dossier is marked discussed.
 document.addEventListener('click',e=>{if(e.target.closest('#continue')&&state.completed.length===5)location.href='finale.html';});
+
+if(["bureau","slot","finale"].includes(view)){const bonus=document.createElement("p");bonus.className="bonus-link";bonus.innerHTML='<a href="eigen-bericht.html">Klaar? Maak je eigen Enigma-bericht →</a>';document.querySelector(".route-visible")?.append(bonus);}
