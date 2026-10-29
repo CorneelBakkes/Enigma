@@ -14,3 +14,6 @@ body[data-view=bureau],body[data-view^=dossier-]{background-image:url('assets/bu
 .map-scroll img{min-width:900px}
 
 .skip-link{position:fixed;top:-100px;left:10px;z-index:999;background:#f1e9cc;color:#17352b;padding:12px}.skip-link:focus{top:10px}
+
+.source-sheet .source-photo{max-width:720px;margin:1.5rem 0}.source-sheet .source-photo img{display:block;width:100%;height:auto}.source-shelf>.source-sheet{margin:1.5rem 0}
+

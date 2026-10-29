@@ -1,10 +1,10 @@
 OPERATIE ENIGMA - Studenten
-Herziene editie, 29 oktober 2026
+Teksten opgeschoond, 29 oktober 2026
 
 DEZE EDITIE GEBRUIKEN
 Vervang de eerdere website en printbladen door dit complete pakket. Verhalen, bronuitleg, vragen en labels zijn op elkaar afgestemd. Meng de oude opdrachten en bronbladen niet met deze versie. De vijf sleutelkaarten voor de finale zijn ongewijzigd.
 
-Historische voorkennis is niet vereist. De opdrachten vragen wel om argumenteren, bronnen vergelijken en grenzen van bewijs benoemen.
+Historische voorkennis is niet vereist. De opdrachten vragen wel om argumenteren, bronnen vergelijken en informatie uit bronnen gebruiken.
 
 VOORBEREIDEN
 Leg per team de vijf dossiers en de envelop GETUIGEN klaar. Gebruik het bijgewerkte boekje en de bronbladen uit de archieflade. De bronbladen bevatten Nederlandse samenvattingen bij echte bronnen, geen letterlijke vertalingen. Originele bronnen en Google Translate blijven via de website bereikbaar. Scan- en afbeeldingstekst wordt door Google Translate niet altijd vertaald.
@@ -12,7 +12,7 @@ Laat leerlingen eerst lezen en bronnen bekijken, dan antwoorden. Vraag een detai
 
 FINALE
 Gebruik Mininigma op de tablet of de gekoppelde Cryptii M3 met stekkerbord. Neem alle vijf sleutelkaarten over. Controleer ringstanden en startpositie apart. Zet vóór elke nieuwe poging de machine terug op de startpositie. Open daarna GETUIGEN en maak de slotopdracht.
-De nieuwe klaar-opdracht staat apart op eigen-bericht.html en is bereikbaar bij het bureau en de finale/afronding. Daar gebruiken leerlingen een eigen startpositie en een aparte, volledig beschreven oefensleutel. Het verzendblad bewaart hun gewone en geheime tekst; de download voor de ontvanger bevat alleen het geheime bericht en de instellingen.
+De nieuwe klaar-opdracht staat apart op eigen-bericht.html en wordt zichtbaar nadat de eindopdracht is opgeslagen. Daar gebruiken leerlingen een eigen startpositie en een aparte, volledig beschreven oefensleutel. Het verzendblad bewaart hun gewone en geheime tekst; de download voor de ontvanger bevat alleen het geheime bericht en de instellingen.
 
 PUBLICEREN OP GITHUB PAGES
 Pak de ZIP uit. Upload de inhoud in de hoofdmap van de eigen repository: index.html moet direct in die hoofdmap staan. Upload dus niet alleen de ZIP of een buitenste map. Neem ook .nojekyll mee. Kies bij Settings > Pages: Deploy from a branch, main, / (root), Save. GitHub toont daarna de gepubliceerde URL. Er is geen installatie of bouwstap nodig.
@@ -25,4 +25,4 @@ De staatkundige Europakaart staat lokaal als SVG en werkt zonder kaartserver. On
 De twee kamerbeelden zijn door de opdrachtgever aangeleverd en dienen als sfeerbeeld. Het oefentelegram is voor de opdracht gemaakt. De historische scheepsfoto komt uit NARA (NAID 520607) via https://www.nps.gov/places/the-battle-of-the-atlantic.htm . De brief komt van The National Archives (HW 1/155), Open Government Licence v3.0. Overige herkomst staat bij de bronnen.
 
 CONTROLE EN GEBRUIK
-Alle vijf dossiers zijn inhoudelijk gecontroleerd op uitleg vóór toepassing, beschikbare brongegevens, duidelijke verwijzingen en benodigde materialen. Website en printopdrachten gebruiken dezelfde vragen en Nederlandse bronuitleg. De echte pagina's zijn in de browser bekeken; de opslag en ontvangerdownload van de nieuwe klaar-opdracht zijn getest. De website is op een smal scherm gecontroleerd. Dit is geen gebruikerstest met leerlingen; bespreek tijdens de les waar leerlingen nog extra uitleg nodig hebben.
+De teksten in alle vijf dossiers zijn herschreven als lesmateriaal. Uitleg en vragen gaan over de gebeurtenissen en het codebreken. Website en printopdrachten gebruiken dezelfde vragen en Nederlandse bronuitleg. De klaaropdracht komt na de eindopdracht. De echte pagina's zijn in de browser bekeken; de opslag en ontvangerdownload van de nieuwe klaar-opdracht zijn getest. De website is op een smal scherm gecontroleerd. Dit is geen gebruikerstest met leerlingen; bespreek tijdens de les waar leerlingen nog extra uitleg nodig hebben.

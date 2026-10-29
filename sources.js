@@ -1,129 +1,128 @@
 window.SOURCE_GUIDES={
   "atlantic": {
     "language": "Engels",
-    "intro": "Wat laat een oorlogsfoto zien?",
+    "intro": "Schepen onder vuur",
     "paragraphs": [
-      "Tijdens de oorlog vervoeren vrachtschepen voedsel, brandstof en materiaal over de Atlantische Oceaan. Duitse onderzeeërs vallen schepen aan en wisselen radioberichten uit. Gelezen berichten kunnen informatie geven over hun positie of plannen. Het militaire gebruik van die informatie moet met aanvullende bronnen worden aangetoond.",
-      "De foto toont de tanker Dixie Arrow na een aanval door een Duitse onderzeeër. Die identificatie komt uit het bijschrift van National Park Service (foto NARA, NAID 520607). De zichtbare rook is een waarneming; schipnaam en oorzaak komen uit collectiegegevens. De foto toont geen ontcijferd bericht of besluit van een commandant."
+      "Tijdens de oorlog vervoeren vrachtschepen voedsel, brandstof en materieel over de Atlantische Oceaan. Duitse onderzeeërs vallen deze schepen aan. Groot-Brittannië heeft de aanvoer nodig om de bevolking en het leger te bevoorraden.",
+      "Op de foto zie je de tanker Dixie Arrow na een aanval door een Duitse onderzeeër. Het lezen van geheime Duitse radioberichten kan de Britse marine helpen om de positie of plannen van onderzeeërs te achterhalen en schepen voor gevaar te waarschuwen."
     ],
-    "look": "Vergelijk je eigen waarneming met het bijschrift. Zoek het collectie-nummer NAID 520607.",
-    "question": "Welke bewering over geheime communicatie kun je met deze foto niet onderbouwen?",
+    "look": "Welke goederen vervoeren de schepen over de Atlantische Oceaan?",
+    "question": "Waarom is het belangrijk dat een waarschuwing voor een onderzeeër op tijd komt?",
     "terms": "Tanker = tankschip · torpedoed = getorpedeerd · caption = bijschrift"
   },
   "bio": {
     "language": "Engels",
-    "intro": "Turing vóór en na Bletchley Park",
+    "intro": "Het leven van Alan Turing",
     "paragraphs": [
-      "Turing wordt geboren in 1912, publiceert in 1936 over berekenbaarheid en werkt vanaf 1939 in Bletchley Park. Hij overlijdt in 1954. Deze momenten liggen in verschillende perioden en horen bij verschillende soorten bronnen.",
-      "Een biografie kijkt terug op een heel leven. Deze archiefpagina verbindt Turings studie en zijn onderzoek naar berekenbaarheid met zijn latere werk. De documenten op de pagina komen uit verschillende perioden.",
-      "Lees een levensverhaal niet alsof de afloop al vaststond. Een jongeman die een wiskundig probleem onderzoekt, weet nog niet welke rol hij later in een oorlog zal spelen."
+      "Alan Turing wordt in 1912 in Engeland geboren. Hij studeert wiskunde en schrijft in 1936 over een denkbeeldige machine die volgens vaste regels berekeningen uitvoert.",
+      "Vanaf 1939 werkt hij in Bletchley Park aan het ontcijferen van Enigma-berichten. Hij ontwikkelt methoden voor het codebreken en draagt bij aan het ontwerp van de Britse Bombe.",
+      "Na de oorlog blijft Turing werken aan computers en wiskunde. Hij wordt in 1952 veroordeeld vanwege seksuele handelingen met een man. Hij overlijdt in 1954."
     ],
-    "look": "Vergelijk de datum van een afgebeeld document met de periode die de toelichting beschrijft.",
-    "question": "Wat is een uitspraak van Turing zelf, en wat voegt de latere biograaf toe?",
+    "look": "Zoek de jaren 1936 en 1939 in de levensbeschrijving.",
+    "question": "Wat verandert er in het werk van Turing als de oorlog begint?",
     "terms": "Archive = archief · correspondence = briefwisseling · manuscript = handschrift"
   },
   "paper": {
     "language": "Engels",
-    "intro": "Wat kan een machine volgens vaste regels doen?",
+    "intro": "Een denkbeeldige rekenmachine",
     "paragraphs": [
-      "Turing onderzoekt in dit artikel de grenzen van berekenen. Hij beschrijft een denkbeeldige machine die stap voor stap symbolen verwerkt. Dit is een wiskundig model, geen bouwtekening voor Enigma.",
-      "Je hoeft de formules niet allemaal te begrijpen om de bron historisch te onderzoeken. De titel, datum, auteur en soort publicatie vertellen al veel over de vraag waaraan hij werkte."
+      "In 1936 onderzoekt Turing welke berekeningen een machine volgens vaste regels kan uitvoeren. Hij beschrijft daarvoor een machine met een lange strook waarop symbolen staan.",
+      "De machine leest een symbool, volgt een regel, schrijft een symbool en schuift verder over de strook. Turing gebruikt dit model om een wiskundig probleem te onderzoeken. Het artikel hoort bij zijn werk van vóór de oorlog."
     ],
-    "look": "Bekijk de eerste bladzijde. Zoek de titel en de uitleg van het probleem. Leg daarna pas een verband met zijn latere werk.",
-    "question": "Welke overeenkomst zie je met systematisch zoeken naar een code, en waarom bewijst een overeenkomst nog geen direct oorzakelijk verband?",
+    "look": "Bekijk de titel en het jaartal op de eerste bladzijde.",
+    "question": "Welke handelingen voert de denkbeeldige machine stap voor stap uit?",
     "terms": "Computable = berekenbaar · machine = hier een theoretisch model · Entscheidungsproblem = beslissingsprobleem"
   },
   "treatise": {
     "language": "Engels",
-    "intro": "Een blik op het werk aan de code",
+    "intro": "Turings aantekeningen over Enigma",
     "paragraphs": [
-      "Rond 1940 beschreef Turing methoden waarmee hij en zijn collega’s Enigma-berichten onderzochten. Dit werkdocument werd bekend als het Prof’s Book. De bronpagina toont enkele gescande bladzijden met toelichting.",
-      "Een typescript met schema’s en aantekeningen laat het werkproces zien. Het is geen eenvoudig stappenplan voor studenten. Begin met één schema en de bijbehorende toelichting; onderscheid wat op het oude blad staat van wat de latere auteur erover vertelt."
+      "Rond 1940 beschrijft Turing methoden voor het onderzoeken van Enigma-berichten. Zijn werkdocument staat bekend als het Prof’s Book. Het bevat uitleg, tabellen en schema’s voor collega-codebrekers.",
+      "De codebrekers vergelijken geheime letters met woorden die zij in het oorspronkelijke bericht verwachten. Met die aanwijzingen onderzoeken zij welke instellingen van Enigma mogelijk zijn. De Bombe helpt bij dit zoekwerk."
     ],
-    "look": "Zoek een schema en een handgeschreven aanvulling. Welke uitleg staat in de scan, en welke staat op de website eromheen?",
-    "question": "Wat kun je uit zo’n werkdocument afleiden over de werkwijze, en wat niet over het dagelijkse leven in de hut?",
+    "look": "Bekijk een schema of tabel in het werkdocument.",
+    "question": "Wat moeten codebrekers al vermoeden over een bericht voordat de Bombe hen kan helpen?",
     "terms": "Treatise = verhandeling · cipher = versleuteling · crib = vermoed tekstfragment",
     "scan": true
   },
   "letter": {
     "language": "Engels",
-    "intro": "Machines genoeg. Mensen tekort.",
+    "intro": "Een brief aan Churchill",
     "paragraphs": [
-      "Churchill is de Britse premier, de leider van de regering. Bletchley Park is het Britse centrum voor onderzoek naar onderschepte berichten. Cryptanalisten onderzoeken geheime teksten zonder vooraf de sleutel te kennen. In de brief melden zij dat personeelstekort het op tijd verwerken van berichten belemmert.",
-      "Op 21 oktober 1941 schreven vier cryptanalisten rechtstreeks aan Churchill. Zij wilden dat hij ingreep in een personeelsprobleem. De brief laat zien dat extra machines alleen niet genoeg waren om al het werk te doen.",
-      "De schrijvers hebben belang bij een overtuigende voorstelling van hun probleem. Dat maakt de brief niet waardeloos: juist hun verzoek vertelt iets over de organisatie. Het is wel een reden om hun perspectief en doel mee te wegen."
+      "Op 21 oktober 1941 schrijven Alan Turing, Gordon Welchman, Hugh Alexander en Stuart Milner-Barry aan Winston Churchill. Hij is de Britse premier, de leider van de regering.",
+      "In Bletchley Park is te weinig personeel om al het werk af te handelen. Sommige berichten worden daardoor te laat gelezen. De vier codebrekers vragen Churchill om meer medewerkers. Ze hopen dat hij kan zorgen dat hun verzoek snel wordt uitgevoerd."
     ],
-    "look": "Zoek in het transcript naar “staff”. Vergelijk die passage met de verwijzing naar “bombes”.",
-    "question": "Waarom richtten de schrijvers zich tot de premier? Welke informatie zou je erbij willen hebben om hun voorstelling te controleren?",
+    "look": "Bekijk de brief en lees de Nederlandse uitleg bij het verzoek om personeel.",
+    "question": "Welk probleem willen de schrijvers met deze brief oplossen?",
     "terms": "Staff = personeel · sufficient = voldoende · held up = opgehouden",
     "translation": "“We kunnen niet genoeg personeel krijgen om het werk af te handelen.” ",
     "scan": true
   },
   "bombe": {
     "language": "Engels",
-    "intro": "Een hulpmiddel voor het zoekwerk",
+    "intro": "Zoeken naar de instellingen",
     "paragraphs": [
-      "De Britse Bombe hielp mogelijke Enigma-instellingen onderzoeken. Mensen moesten het onderzoek voorbereiden en uitkomsten controleren. De machine nam dus een deel van het werk over, niet het hele historische denkproces.",
-      "De museumbron legt ook de reconstructie uit. De machine die bezoekers nu zien is niet vanzelf hetzelfde soort bron als een bewaard apparaat uit de oorlog."
+      "De Britse Bombe helpt bij het zoeken naar mogelijke instellingen van Enigma. De codebrekers beginnen met een vermoeden over een stukje van de oorspronkelijke tekst. Dat stukje heet een crib.",
+      "Mensen bereiden het zoekwerk voor en stellen de Bombe in. Daarna controleren ze de gevonden mogelijkheden op een Enigma of een vergelijkbaar apparaat. Pas als de instellingen kloppen, kunnen zij het bericht lezen."
     ],
-    "look": "Zoek waar de tekst over de oorlog gaat en waar de reconstructie wordt besproken.",
-    "question": "Welke bewering kun je met museale uitleg onderbouwen? Wat zou je daarnaast aan een originele machine of tekening willen onderzoeken?",
+    "look": "Lees welke taken mensen vóór en na het werk van de Bombe uitvoeren.",
+    "question": "Waarom levert de Bombe niet vanzelf een volledig gelezen bericht op?",
     "terms": "Rebuild = reconstructie · settings = instellingen · operator = bediener"
   },
   "colossus": {
     "language": "Engels",
-    "intro": "Waarom Colossus niet hetzelfde verhaal vertelt",
+    "intro": "Een ander Duits geheimschrift",
     "paragraphs": [
-      "Colossus werd vanaf 1944 gebruikt bij onderzoek naar Lorenz-verkeer. Lorenz was een ander versleutelingssysteem dan Enigma. Wie alle codebreekmachines op één hoop gooit, verliest dat onderscheid.",
-      "Ook hier zie je in het museum een reconstructie. Lees daarom zowel wat de machine deed als wanneer zij werd gebruikt. De naam van een beroemde machine is op zichzelf nog geen bewijs voor een Enigma-verhaal."
+      "Colossus wordt vanaf 1944 gebruikt in Bletchley Park. Deze elektronische machine helpt bij het onderzoeken van berichten die met Lorenz zijn versleuteld.",
+      "Lorenz wordt gebruikt voor communicatie tussen hoge Duitse commandoposten. Het systeem werkt anders dan Enigma. Voor het onderzoeken van deze berichten ontwikkelen de Britten andere methoden en machines."
     ],
-    "look": "Zoek de woorden “Lorenz” of “Tunny” en let op de datering.",
-    "question": "Welke twee onderdelen van de uitspraak “Colossus kraakte Enigma in 1940” worden door deze bron tegengesproken?",
+    "look": "Zoek bij welk versleutelingssysteem Colossus hoort.",
+    "question": "Waarin verschilt de taak van Colossus van die van de Bombe?",
     "terms": "Lorenz / Tunny = ander versleutelingssysteem · rebuild = reconstructie"
   },
   "joan": {
     "language": "Engels",
-    "intro": "Joan Clarke: wiskundige in Hut 8",
+    "intro": "Joan Clarke in Hut 8",
     "paragraphs": [
-      "Clarke kwam in 1940 naar Bletchley Park en werkte bij het team voor marineverkeer. Zij werd bekwaam in Banburismus, een statistische aanpak waarmee het zoekwerk doelgerichter kon worden uitgevoerd.",
-      "Deze biografie is later door GCHQ gepubliceerd. Zij beschrijft Clarkes bijdrage, maar is geen getuigenis die Clarke op dat moment zelf schreef. Let erop hoe een instelling haar eigen geschiedenis presenteert."
+      "Joan Clarke studeert wiskunde in Cambridge. In 1940 gaat zij in Bletchley Park werken, bij het team dat berichten van de Duitse marine onderzoekt.",
+      "Zij gebruikt statistische berekeningen om te bepalen welke mogelijkheden het team het beste kan onderzoeken. Daardoor kan het team het zoekwerk met de machines gerichter uitvoeren. Deze aanpak heet Banburismus."
     ],
-    "look": "Zoek de passages over haar wiskundige opleiding en haar werk in Hut 8.",
-    "question": "Hoe verandert je beeld van codebreken wanneer je Clarke naast de Bombe plaatst?",
+    "look": "Lees hoe Clarke met wiskunde het zoekwerk helpt verkleinen.",
+    "question": "Hoe helpt Clarkes werk de mensen die de machines bedienen?",
     "terms": "Cryptanalysis = onderzoek om versleuteling te doorbreken · Naval = van de marine · Banburismus = statistische onderzoeksmethode"
   },
   "polish": {
     "language": "Pools",
-    "intro": "Het verhaal begint ook in Polen",
+    "intro": "De Poolse codebrekers",
     "paragraphs": [
-      "Marian Rejewski doorgrondde eind 1932 belangrijke onderdelen van de militaire Enigma. Samen met Jerzy Różycki en Henryk Zygalski ontwikkelde hij verdere methoden. In 1939 deelden de Polen hun kennis met Britse en Franse bondgenoten.",
-      "De museumtekst volgt ook het verdere lot van de Poolse cryptanalisten. Hun verhaal verdwijnt wanneer codebreken alleen wordt verteld als een Britse uitvinding tijdens de oorlog."
+      "Marian Rejewski doorgrondt eind 1932 belangrijke onderdelen van de militaire Enigma. Met Jerzy Różycki en Henryk Zygalski ontwikkelt hij methoden om Duitse berichten te lezen.",
+      "In juli 1939 delen de Polen hun kennis met Britse en Franse bondgenoten bij Warschau. De Britten bouwen tijdens de oorlog voort op deze kennis. De Poolse codebrekers zetten hun werk na hun vertrek uit Polen voort in Frankrijk."
     ],
-    "look": "Zoek de namen Rejewski, Różycki en Zygalski en de jaartallen 1932 en 1939. Open daarna de Nederlandse Translate-weergave.",
-    "question": "Welk beginpunt zou je kiezen voor een les over Enigma? Wie komt daardoor centraal te staan?",
+    "look": "Zoek wat er in 1932 en in 1939 gebeurt.",
+    "question": "Wat kunnen de Britten gebruiken van het werk dat al in Polen is gedaan?",
     "terms": "szyfr = code of versleuteling · kryptolodzy = cryptologen · wojna = oorlog"
   },
   "pardon": {
     "language": "Engels",
-    "intro": "Erkenning die het verleden niet terugdraait",
+    "intro": "Een officieel pardon voor Turing",
     "paragraphs": [
-      "Dit overheidsbericht kondigt de koninklijke gratie van december 2013 aan. Turing was in 1952 veroordeeld vanwege een homoseksuele relatie. Zijn betekenis als codebreker had hem daar niet tegen beschermd.",
-      "Voor de beslissing van 2013 is dit een primaire bron. Voor gebeurtenissen in 1940 is het een veel latere terugblik. Het woord “primair” hangt dus mede af van de historische vraag die je stelt.",
-      "Koningin Elizabeth II verleent de gratie op 24 december 2013. Dit is een pardon voor de veroordeling, geen herstel van Turings leven of gezondheid. Uit dit ene regeringsbericht kun je ook niet de hele ontwikkeling van de wetgeving afleiden."
+      "Turing wordt in 1952 in Groot-Brittannië veroordeeld vanwege seksuele handelingen met een man. Die zijn volgens de wet van toen strafbaar. Als onderdeel van zijn straf ondergaat hij een hormonale behandeling. Hij overlijdt in 1954.",
+      "Op 24 december 2013 verleent koningin Elizabeth II hem postuum gratie. Postuum betekent na zijn overlijden. Het is een officieel pardon voor zijn veroordeling.",
+      "Het regeringsbericht prijst Turings bijdrage aan het codebreken en de wetenschap. Het noemt zijn straf onrechtvaardig en discriminerend."
     ],
-    "look": "Vergelijk de publicatiedatum met de gebeurtenissen die worden beschreven.",
-    "question": "Wat doet een pardon wel, en welke gevolgen van vervolging kan het niet herstellen?",
+    "look": "Lees wat de regering in 2013 zegt over Turings werk en zijn veroordeling.",
+    "question": "Waarom wordt de behandeling van Turing in 2013 anders beoordeeld dan in 1952?",
     "terms": "Pardon = gratie · conviction = veroordeling · posthumous = na het overlijden"
   },
   "wiring": {
     "language": "Engels",
-    "intro": "De weg van een letter door de machine",
+    "intro": "De elektrische verbindingen in Enigma",
     "paragraphs": [
-      "De tabellen geven de verbindingen van rotoren en reflectoren weer. Een rotor is niet alleen een letterwiel: er zitten elektrische verbindingen in. Door zijn beweging verandert het pad van de stroom.",
-      "Ringstand en zichtbare startpositie zijn twee verschillende instellingen. Bij de finale moeten beide kloppen. Het vaste codewiel in het onderzoek laat slechts één klein deel van deze werking zien."
+      "Bij het indrukken van een toets loopt stroom door de machine. De stroom gaat via het stekkerbord, de rotoren en de reflector terug naar een lampje. De letter van dat lampje is de uitkomst.",
+      "Een rotor bevat elektrische verbindingen en kan draaien. Door het draaien verandert het pad van de stroom. Voor de finale moeten de rotorvolgorde, ringstanden, startpositie, reflector en stekkerparen overeenkomen met de sleutelkaarten."
     ],
-    "look": "Zoek de tabel met rotoren I–V en de reflectoren B en C.",
-    "question": "Waarom kun je een model dat alleen letters verschuift niet als volledige weergave van Enigma gebruiken?",
+    "look": "Bekijk de tabellen met rotoren I tot en met V en de reflectoren B en C.",
+    "question": "Waarom moet je de machine vóór een nieuwe poging terugzetten op de startpositie?",
     "terms": "Wiring = bedrading · ring setting = ringstand · turnover = doorschakelmoment"
   }
 };
