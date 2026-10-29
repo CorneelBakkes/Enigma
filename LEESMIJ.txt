@@ -1,80 +1,43 @@
-OPERATIE ENIGMA — PABO / HISTORISCH ONDERZOEK
-Herziene onderzoekseditie — 29 oktober 2026
+OPERATIE ENIGMA — V4 / AFZONDERLIJKE PAGINA'S
+29 oktober 2026
 
-Pak de ZIP uit. index.html staat direct in de hoofdmap, naast de bestanden en
-mappen die je naar jouw GitHub Pages-publicatiemap uploadt. Geen bouwstap nodig.
-GitHub-publicatie regel je zelf. Er is niets naar een repository verstuurd.
+PUBLICEREN
+Pak de ZIP uit en upload de inhoud naar je GitHub Pages-publicatiemap.
+index.html staat direct in die map, naast de overige HTML-bestanden,
+JavaScript, stylesheets, assets/ en print/. Geen installatie of bouwstap nodig.
+Er is niets naar GitHub gepubliceerd.
 
-VIJF DOSSIERS
-1 Europa in oorlog en geheime communicatie
-2 Alan Turing als mens en wiskundige
-3 Internationale samenwerking
-4 Enigma, Bombe en Colossus
-5 Vervolging en erkenning
+PAGINA'S
+index.html — binnenkomst met de aangeleverde achtergrond
+bureau.html — keuze uit vijf dossiers
+dossier-1.html t/m dossier-5.html — één dossier per pagina
+kaart.html — echte OpenStreetMap-kaart met drie onderzoekslocaties
+tijdlijn.html — de historische tijdlijn
+finale.html — de externe Enigma en het ontcijferde bericht
+slotverklaring.html — de afsluitende verklaring na de getuigenenvelop
 
-Centrale vraag: Hoe kon Alan Turing bijdragen aan het verslaan van nazi-Duitsland,
-terwijl hij na de oorlog door zijn eigen land werd vervolgd?
+Iedere dossierpagina heeft een kruimelpad, teruglink en vorige/volgende stap.
+Op de binnenkomst en het bureau staan geen opdrachten uit andere dossiers.
+De slotpagina wordt bereikbaar na de stap bij de getuigenenvelop.
+De oorspronkelijke tekening-assets zijn niet meer onderdeel van de site.
+De aangeleverde achtergrond is ongewijzigd opgenomen als assets/achtergrond.png.
 
-Bronnen vergelijken, bewijsnotities vastleggen en voorlopige conclusies schrijven
-vormen de route. Een bewijsnotitie scheidt waarneming, interpretatie en beperking.
-Notities zijn te herzien en te downloaden vanuit de archieflade. De knop
-'besproken' houdt alleen bij waar de groep is; er is geen automatische beoordeling.
-De omgeving bevat geen meerkeuzequizzen, persoonskoppelspel of sleutelbeloningen.
+BEWAREN
+Notities, bewijs en slotverklaring blijven in dezelfde browser bewaard.
+Download het complete dossier vanuit de archieflade om het te bewaren of in te leveren.
+De nieuwe paginastructuur gebruikt dezelfde opslagsleutel als V2 en V3.
 
-VERTAALWEBSITE EN ORIGINEEL
-Iedere buitenlandse bron heeft een origineellink, Google Translate-weergave
-richting Nederlands en een eigen Nederlandse leeshulp. Die leeshulp is een
-samenvatting en geen integrale vertaling van het historische document.
-Google vertaalt de webpagina en het transcript, maar niet automatisch tekst in
-scans of handschrift. Vergelijk belangrijke details met het origineel.
-De Translate-weergaven van de Britse brief en de Poolse museumbron zijn werkelijk
-in de browser geopend en bevatten Nederlandse tekst.
-De brief van 21 oktober 1941 is in een documentinspecteur met vergroting te zien.
-De reproductie wordt van The National Archives geladen en vereist internet.
-Collectie: HW 1/155. Zie de originele collectiepagina voor hergebruikvoorwaarden.
-Overheidscontent: Open Government Licence v3.0, tenzij anders vermeld.
-Andere scans worden bij hun bronhouder geopend en zijn niet gekopieerd.
+BRONNEN EN MATERIALEN
+De Nederlandse leeshulp, het origineel en Google Translate blijven beschikbaar.
+De kaart gebruikt OpenStreetMap; huidige topografie, met bronvermelding en
+correcte coördinaten voor Warschau, Parijs en Bletchley Park.
+Externe kaarten, bronreproducties en vertaalsites vragen internet.
+Elf oorspronkelijke print-PDF's zijn behouden in de archieflade.
+De Enigma blijft extern: Mininigma op tablet, Cryptii als browseralternatief.
 
-FINALE MET DE FYSIEKE BOX
-Gebruik jouw Mininigma-app op de tablet. De site bevat een link naar informatie
-over de app; die link start de al geïnstalleerde app niet automatisch.
-Er is daarnaast een browserlink naar Cryptii met een gecontroleerde M3 en stekkerbord.
-Die is getest met het originele telegram en alle instellingen uit de fysieke box.
-ThoughtAsylum en de afgewezen 101 Computing-link worden niet gebruikt.
-De MATLAB-app van MathWorks is bekeken maar niet ingebouwd: die vereist MATLAB.
-Gebruik de papieren sleutelkaarten. De digitale omgeving geeft ze niet automatisch
-vrij als beloning. De site ontcijfert het bericht niet zelf; studenten voeren na
-het werken met de externe machine hun volledige uitkomst in voor de nabespreking.
-
-PRINTMATERIAAL
-Elf oorspronkelijke Pabo-PDF's zijn ongewijzigd bewaard in de archieflade.
-Hun oude dossierindeling verschilt van de nieuwe digitale route. Ze zijn daarom
-als oorspronkelijke printdossiers gelabeld. Het volledige bronkaartenpakket kan
-ook sleutel- en getuigeninformatie bevatten. Gebruik dat volgens jouw boxafspraken.
-
-OPSLAG EN TOEGANKELIJKHEID
-Bevindingen en bespreekstatus worden uitsluitend lokaal in de browser bewaard.
-Download het onderzoeksdossier om het mee te nemen of in te leveren.
-Er is geen account of serveropslag. De herziene route heeft een eigen lokale
-opslagsleutel; oude quizvoortgang wordt niet als nieuw onderzoek overgenomen.
-Objecten en kaartlocaties zijn gewone knoppen, met zichtbare focus.
-Dialogen sluiten met Escape. Geluid staat uit; minder beweging wordt gerespecteerd.
-De teksten, notities en printbestanden zijn lokaal; Translate, externe bronnen,
-de originele briefafbeelding en de browsersimulator hebben internet nodig.
-
-ONTWERP EN HERKOMST
-De kamer, kaart en Enigma-illustratie zijn oorspronkelijke SVG-illustraties.
-De openingsnacht is fictie, geen exacte reconstructie van een specifieke hut.
-Het telegram is een oefenbericht, geen authentieke Duitse oorlogstransmissie.
-Dateringen en bronsoorten maken onderscheid tussen oude documenten en latere uitleg.
-
-AFRONDING NA DE GETUIGENENVELOP
-Via 'Schrijf onze slotverklaring' opent een afzonderlijk vormgegeven slotdocument.
-Vier invulonderdelen: historisch antwoord, bewijs uit twee verschillende bronnen,
-een beperking van het bewijs en een lesvraag voor leerlingen.
-Een richtlijn van 120-180 woorden helpt bij het antwoord; er is geen inhoudelijke
-of automatische woordenaantalbeoordeling. Velden en twee verschillende bronnen
-zijn vereist om de verklaring als vastgelegd te markeren.
-Concept en vastgelegde verklaring blijven lokaal bewaard na herladen en staan
-in de download van het complete onderzoeksdossier. Een nieuwe sessie wist ook
-deze lokale afronding; de herstelknop herstelt de vorige sessie binnen de pagina.
+CONTROLE
+De vijf dossierpagina's en hun navigatie zijn in de browser doorlopen.
+De overgang finale -> getuigen -> afzonderlijke slotpagina is gecontroleerd.
+De kaart is daadwerkelijk geladen, inclusief de plaatsmarkering voor Parijs.
+Alle lokale HTML-verwijzingen bestaan; alle elf PDF's zijn ongewijzigd.
+De achtergrond komt byte-voor-byte overeen met de aangeleverde afbeelding.
