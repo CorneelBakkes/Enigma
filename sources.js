@@ -8,7 +8,9 @@ window.SOURCE_GUIDES={
     ],
     "look": "Welke goederen vervoeren de schepen over de Atlantische Oceaan?",
     "question": "Waarom is het belangrijk dat een waarschuwing voor een onderzeeër op tijd komt?",
-    "terms": "Tanker = tankschip · torpedoed = getorpedeerd · caption = bijschrift"
+    "terms": "Tanker = tankschip · torpedoed = getorpedeerd · caption = bijschrift",
+    "sourceIntro": "Op zee worden vrachtschepen aangevallen. Deze pagina vertelt over de strijd op de Atlantische Oceaan.",
+    "sourceTask": "Open de pagina en zoek de alinea over Enigma. Tot wanneer bleef het Britse codebreekwerk volgens de tekst geheim? Noteer het antwoord en leg uit waarom de oorlogsmarine geheimhouding nodig had."
   },
   "bio": {
     "language": "Engels",
@@ -20,7 +22,9 @@ window.SOURCE_GUIDES={
     ],
     "look": "Zoek de jaren 1936 en 1939 in de levensbeschrijving.",
     "question": "Wat verandert er in het werk van Turing als de oorlog begint?",
-    "terms": "Archive = archief · correspondence = briefwisseling · manuscript = handschrift"
+    "terms": "Archive = archief · correspondence = briefwisseling · manuscript = handschrift",
+    "sourceIntro": "De universiteit bewaart foto’s en documenten uit Turings leven.",
+    "sourceTask": "Open de levensbeschrijving en kies een foto of document uit het archief. Noteer wat het voorstelt en wat je ermee kunt vertellen over Turings leven."
   },
   "paper": {
     "language": "Engels",
@@ -31,7 +35,9 @@ window.SOURCE_GUIDES={
     ],
     "look": "Bekijk de titel en het jaartal op de eerste bladzijde.",
     "question": "Welke handelingen voert de denkbeeldige machine stap voor stap uit?",
-    "terms": "Computable = berekenbaar · machine = hier een theoretisch model · Entscheidungsproblem = beslissingsprobleem"
+    "terms": "Computable = berekenbaar · machine = hier een theoretisch model · Entscheidungsproblem = beslissingsprobleem",
+    "sourceIntro": "In dit archief kun je Turings artikel bekijken.",
+    "sourceTask": "Open het archiefstuk en bekijk de eerste bladzijde. Neem de titel over. Zoek in de eerste tekst waar Turing uitlegt wat hij met machines wil onderzoeken. Gebruik zo nodig de leeshulp."
   },
   "treatise": {
     "language": "Engels",
@@ -43,7 +49,9 @@ window.SOURCE_GUIDES={
     "look": "Bekijk een schema of tabel in het werkdocument.",
     "question": "Wat moeten codebrekers al vermoeden over een bericht voordat de Bombe hen kan helpen?",
     "terms": "Treatise = verhandeling · cipher = versleuteling · crib = vermoed tekstfragment",
-    "scan": true
+    "scan": true,
+    "sourceIntro": "Dit werkdocument bevat Turings uitleg voor andere codebrekers.",
+    "sourceTask": "Open de pagina en klik een scan met een schema of tabel aan. Beschrijf hoe die bladzijde is ingedeeld. Welke vraag zou je aan de schrijver willen stellen om het schema te begrijpen?"
   },
   "letter": {
     "language": "Engels",
@@ -56,7 +64,9 @@ window.SOURCE_GUIDES={
     "question": "Welk probleem willen de schrijvers met deze brief oplossen?",
     "terms": "Staff = personeel · sufficient = voldoende · held up = opgehouden",
     "translation": "“We kunnen niet genoeg personeel krijgen om het werk af te handelen.” ",
-    "scan": true
+    "scan": true,
+    "sourceIntro": "Vier codebrekers sturen Churchill een brief. Bekijk hun verzoek en zijn reactie.",
+    "sourceTask": "Open de bronpagina. Lees het verzoek van de codebrekers én de reactie van Churchill. Welke actie verlangt hij? Beschrijf wat zijn reactie aan het verzoek toevoegt."
   },
   "bombe": {
     "language": "Engels",
@@ -67,7 +77,9 @@ window.SOURCE_GUIDES={
     ],
     "look": "Lees welke taken mensen vóór en na het werk van de Bombe uitvoeren.",
     "question": "Waarom levert de Bombe niet vanzelf een volledig gelezen bericht op?",
-    "terms": "Rebuild = reconstructie · settings = instellingen · operator = bediener"
+    "terms": "Rebuild = reconstructie · settings = instellingen · operator = bediener",
+    "sourceIntro": "Het museum laat zien hoe de Bombe bij het codebreken werd gebruikt.",
+    "sourceTask": "Open de museumpagina. Bekijk de foto’s en lees de uitleg over het zoekwerk. Noteer één taak van de machine en één taak die mensen uitvoerden."
   },
   "colossus": {
     "language": "Engels",
@@ -78,7 +90,9 @@ window.SOURCE_GUIDES={
     ],
     "look": "Zoek bij welk versleutelingssysteem Colossus hoort.",
     "question": "Waarin verschilt de taak van Colossus van die van de Bombe?",
-    "terms": "Lorenz / Tunny = ander versleutelingssysteem · rebuild = reconstructie"
+    "terms": "Lorenz / Tunny = ander versleutelingssysteem · rebuild = reconstructie",
+    "sourceIntro": "Colossus helpt bij een ander Duits geheimschrift.",
+    "sourceTask": "Open de museumpagina. Zoek de naam van het Duitse systeem en het jaar waarin Colossus in gebruik kwam. Vergelijk die gegevens met de Bombe."
   },
   "joan": {
     "language": "Engels",
@@ -89,7 +103,9 @@ window.SOURCE_GUIDES={
     ],
     "look": "Lees hoe Clarke met wiskunde het zoekwerk helpt verkleinen.",
     "question": "Hoe helpt Clarkes werk de mensen die de machines bedienen?",
-    "terms": "Cryptanalysis = onderzoek om versleuteling te doorbreken · Naval = van de marine · Banburismus = statistische onderzoeksmethode"
+    "terms": "Cryptanalysis = onderzoek om versleuteling te doorbreken · Naval = van de marine · Banburismus = statistische onderzoeksmethode",
+    "sourceIntro": "Joan Clarke werkt in een team dat Duitse marineberichten onderzoekt.",
+    "sourceTask": "Open de biografie. Zoek de passage over Banburismus. Welk voordeel had haar werk voor het gebruik van de Bombes? Zoek ook wat zij na haar pensionering aan het geschiedverhaal bijdroeg."
   },
   "polish": {
     "language": "Pools",
@@ -100,7 +116,9 @@ window.SOURCE_GUIDES={
     ],
     "look": "Zoek wat er in 1932 en in 1939 gebeurt.",
     "question": "Wat kunnen de Britten gebruiken van het werk dat al in Polen is gedaan?",
-    "terms": "szyfr = code of versleuteling · kryptolodzy = cryptologen · wojna = oorlog"
+    "terms": "szyfr = code of versleuteling · kryptolodzy = cryptologen · wojna = oorlog",
+    "sourceIntro": "Een Pools museum vertelt over het onderzoek naar Enigma vóór de oorlog.",
+    "sourceTask": "Open de vertaalde museumtekst. Zoek Rejewski en het jaar 1932. Noteer welke andere mensen of landen de tekst noemt en leg uit hoe zij bij dit onderzoek betrokken zijn."
   },
   "pardon": {
     "language": "Engels",
@@ -112,7 +130,9 @@ window.SOURCE_GUIDES={
     ],
     "look": "Lees wat de regering in 2013 zegt over Turings werk en zijn veroordeling.",
     "question": "Waarom wordt de behandeling van Turing in 2013 anders beoordeeld dan in 1952?",
-    "terms": "Pardon = gratie · conviction = veroordeling · posthumous = na het overlijden"
+    "terms": "Pardon = gratie · conviction = veroordeling · posthumous = na het overlijden",
+    "sourceIntro": "De Britse regering maakt in 2013 een officieel pardon bekend.",
+    "sourceTask": "Open het regeringsbericht. Noteer de publicatiedatum en de afzender. Kies vervolgens een passage waarin de regering Turings behandeling beoordeelt en vat die in je eigen woorden samen."
   },
   "wiring": {
     "language": "Engels",
@@ -123,6 +143,8 @@ window.SOURCE_GUIDES={
     ],
     "look": "Bekijk de tabellen met rotoren I tot en met V en de reflectoren B en C.",
     "question": "Waarom moet je de machine vóór een nieuwe poging terugzetten op de startpositie?",
-    "terms": "Wiring = bedrading · ring setting = ringstand · turnover = doorschakelmoment"
+    "terms": "Wiring = bedrading · ring setting = ringstand · turnover = doorschakelmoment",
+    "sourceIntro": "Deze tabellen laten de elektrische verbindingen van Enigma zien.",
+    "sourceTask": "Open de technische pagina. Zoek de tabellen met rotoren I tot en met V en reflectoren B en C. Wijs aan welke rijen bij jullie sleutelkaarten horen."
   }
 };
