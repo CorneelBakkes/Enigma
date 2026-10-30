@@ -93,7 +93,7 @@ window.RESEARCH=[
   },
   {
     "title": "Vervolging en erkenning",
-    "object": "De envelop GETUIGEN",
+    "object": "De envelop NA DE OORLOG",
     "lead": "Turing helpt tijdens de oorlog zijn land. In 1952 wordt hij door datzelfde land veroordeeld vanwege seksuele handelingen met een man.",
     "story": "In Groot-Brittannië zijn seksuele handelingen tussen mannen in 1952 strafbaar. Turing wordt veroordeeld en ondergaat een hormonale behandeling. Hij overlijdt in 1954, op 41-jarige leeftijd. In december 2013 verleent koningin Elizabeth II hem postuum gratie: een officieel pardon voor zijn veroordeling. Het Britse regeringsbericht noemt zijn bijdrage aan de oorlog en noemt zijn behandeling onrechtvaardig en discriminerend.",
     "source": "pardon",
@@ -108,7 +108,7 @@ window.RESEARCH=[
       "Bespreek waarom Turings werk hem niet beschermt tegen de wet die in 1952 geldt. Gebruik de uitleg bij dit dossier.",
       "Schrijf een voorlopig antwoord op de centrale vraag. Gebruik informatie over zijn oorlogswerk én zijn veroordeling."
     ],
-    "table": "Maak de tijdlijn op papier. Bewaar de envelop GETUIGEN voor na de Enigma-finale.",
+    "table": "Maak de tijdlijn op papier. Bewaar de envelop NA DE OORLOG voor na de Enigma-finale.",
     "layer": {
       "title": "Gratie in 2013",
       "text": "De gratie komt bijna zestig jaar na Turings dood. Zij verandert niets meer aan wat hem persoonlijk is overkomen. Met het besluit neemt de Britse regering wel afstand van zijn veroordeling."

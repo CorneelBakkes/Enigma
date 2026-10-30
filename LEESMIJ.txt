@@ -1,3 +1,6 @@
+NIEUW SLOTDOSSIER — 30 oktober 2026
+Gebruik de nieuwe telegrammen en het enveloplabel NA DE OORLOG. Het ontcijferde bericht verwijst nu naar deze envelop. De instellingen op de vijf sleutelkaarten blijven hetzelfde. Schoolversies: druk ook de bijgewerkte sleutelpagina af, want daarop staat het telegram. Vervang de oude getuigenbladen door het slotdossier.
+
 OPERATIE ENIGMA — Pabo
 Bijgewerkt op 30 oktober 2026
 
@@ -8,13 +11,13 @@ PUBLICEREN OP GITHUB PAGES
 Pak deze ZIP uit. Upload de INHOUD naar de hoofdmap van een eigen repository, met index.html direct in die hoofdmap. Upload dus niet alleen de ZIP. Kies Settings > Pages > Deploy from a branch > main > / (root). Bewaar .nojekyll. Geen installatie of bouwstap nodig.
 
 VOORBEREIDEN
-Leg vijf fysieke dossiers met sleutelkaarten en de envelop GETUIGEN klaar. De archieflade bevat de Nederlandse printbladen. De bestaande printbladen blijven bruikbaar; de extra zoekvragen bij de externe bronnen staan op de website. Laat de groep bevindingen bespreken en met informatie uit de bronnen onderbouwen.
+Leg vijf fysieke dossiers met sleutelkaarten en de envelop NA DE OORLOG klaar. De archieflade bevat de Nederlandse printbladen. De printbladen in dit pakket horen bij het nieuwe telegram; de extra zoekvragen bij de externe bronnen staan op de website. Laat de groep bevindingen bespreken en met informatie uit de bronnen onderbouwen.
 
 FINALE
 Gebruik Mininigma op de tablet of de gekoppelde Cryptii M3 met stekkerbord. Neem alle vijf sleutelkaarten over. Reset de machine bij iedere nieuwe poging naar de opgegeven startletters. Na het ontcijferen komt de eindopdracht. De link naar ‘Maak je eigen Enigma-bericht’ verschijnt na het bewaren van die eindopdracht.
 
 BRONNEN
-Externe bronpagina’s en Google Translate hebben internet nodig. Vertaling van tekst in scans en afbeeldingen werkt niet altijd; gebruik dan de Nederlandse leeshulp en bekijk de scan erbij. Op de tijdlijn verwijzen de schoolversies bij 1952, 1954 en 2013 naar de getuigenenvelop, die na de finale opengaat.
+Externe bronpagina’s en Google Translate hebben internet nodig. Vertaling van tekst in scans en afbeeldingen werkt niet altijd; gebruik dan de Nederlandse leeshulp en bekijk de scan erbij. Op de tijdlijn verwijzen de schoolversies bij 1952, 1954 en 2013 naar de envelop NA DE OORLOG, die na de finale opengaat.
 De Europakaart heeft een ondergrond met grenzen uit 2008. Ondergrond: Radosław Botev / Demis, publiek domein, via Wikimedia Commons. De achtergrondafbeeldingen zijn aangeleverd door de opdrachtgever. De foto van Dixie Arrow is afkomstig van NARA, NAID 520607, via National Park Service. Verdere brongegevens staan bij de dossiers.
 
 BEWAREN
